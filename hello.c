@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main() {
-	printf("Testing poll SCM\n");
+	printf("Testing github webhook\n");
 	return 0;}
