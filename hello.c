@@ -1,5 +1,4 @@
 #include<stdio.h>
 int main() {
-	printf("hello jenkins!\n");
-	return 0;
-}
+	printf("hello jenkins CI\n");
+	return 0;}
