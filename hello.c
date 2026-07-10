@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main() {
-	printf("hello jenkins CI\n");
+	printf("Testing poll SCM\n");
 	return 0;}
