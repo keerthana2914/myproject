@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main() {
-	printf(" CD Demo\n");
+	printf(" CD demo\n");
 	return 0;}
